@@ -3,6 +3,9 @@ package lab1;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/*
+    Таймер выполняющийся c повторяющимися промежутками.
+ */
 public class CountdownTimer {
     private static final int SECOND = 1000;
 
