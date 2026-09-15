@@ -3,7 +3,7 @@ package lab1;
 import java.util.Timer;
 import java.util.TimerTask;
 /*
-    Таймер выполняющийся за фиксированное время.
+    Таймер выполняющийся за фиксированное время. Подождать, выполнить, остановиться
  */
 public class AlarmTimer {
     private static final int SECOND = 1000;
